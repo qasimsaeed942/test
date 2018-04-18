@@ -13,6 +13,9 @@ public class prog {
         System.out.print("Sum of "+a+" and "+b+" is "+s);
         int m=a-b;
         System.out.print("Subtraction of "+a+" and "+b+" is "+s);
+         int m=a*b;
+        System.out.print("multiplication of "+a+" and "+b+" is "+s);
+
 
     }
 }
